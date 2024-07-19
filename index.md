@@ -1,6 +1,6 @@
 # Oscar Gustafsson
 
-Associate professor in computer and electronics engineering.
+Associate professor in electronics and computer engineering at [Linköping University](https://liu.se), Sweden.
 
 ## Projects
 - [apytypes](https://apytypes.github.io/) - Python array library with custom word lengths
